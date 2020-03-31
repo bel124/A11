@@ -19,7 +19,7 @@ html{
 
 /* the styles for the header */
 img{
-	text-indent: 30px;
+	padding-left: 30px;
 }
 header img {
 	float: left;

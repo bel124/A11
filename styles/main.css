@@ -13,6 +13,9 @@ body {
 	background-color: #fffded;
 
 }
+html{
+	background-color: white;
+}
 
 /* the styles for the header */
 header img {

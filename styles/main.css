@@ -29,7 +29,9 @@ h2 {
 	text-indent: 30px;
 	color: #800000;
 }
-
+h2.a{
+	text-indent: 30px;
+}
 h3{
 	font-size: 130%;
 	font-style: italic;

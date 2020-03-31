@@ -20,6 +20,7 @@ html{
 /* the styles for the header */
 header img {
 	float: left;
+	text-indent: 30px;
 }
 h2 {
 	font-size: 170%;

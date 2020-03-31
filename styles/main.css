@@ -21,7 +21,7 @@ h3{
 }
 
 span.shadow {
-	text-shadow: maroon;
+	text-shadow: #800000;
 }
 /* the styles for the section */
 main {
